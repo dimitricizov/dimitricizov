@@ -1,4 +1,9 @@
-<h3 align="center">Hi, I'm Dimitri</h3>
+<div align="center">
+<img src="https://raw.githubusercontent.com/dimitricizov/dimitricizov/master/header.png" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm a developer trainee 👨‍💻 </div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimitricizov" alt="dimitricizov" /> </p>
 
